@@ -41,12 +41,6 @@ Receive and store library usage data
 Process update metadata
 Serve plugin configuration and responses
 Support scalable user requests
-📦 Installation
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
-pip install -r requirements.txt
-uvicorn main:app --reload
-🔌 Plugin Integration (Concept)
 
 The Roblox plugin communicates with the API to:
 
